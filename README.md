@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ExpressJs and MongoDB**
 
-- 💬 Ask me about **ReactJS, ExpressJS, MongoDB and Android App development**
+- 💬 Ask me about **JavaScript ReactJS, ExpressJS, MongoDB **
 
 - 📫 How to reach me **ayush972982@gmail.com**
 
