@@ -1,4 +1,4 @@
-![Header Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![Header Image](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ayush Butola</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="500"  src="https://camo.githubusercontent.com/91267456d2b3f62869c57ea29897d839b53e0055e8132d9b734b3b0b214fb8fd/68747470733a2f2f6d792d706f7274666f6c696f2d70726f6a656374732e6e65746c6966792e6170702f7374617469632f6d656469612f4d656e6174776f726b2e36623164333166343664636163313039656130382e676966" />
