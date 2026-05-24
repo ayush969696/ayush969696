@@ -1,17 +1,17 @@
 ![Header Image](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ayush Butola</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate React Native Developer | Mobile App Developera from India</h3>
 <img align="right" alt="Coding" width="500"  src="https://camo.githubusercontent.com/91267456d2b3f62869c57ea29897d839b53e0055e8132d9b734b3b0b214fb8fd/68747470733a2f2f6d792d706f7274666f6c696f2d70726f6a656374732e6e65746c6966792e6170702f7374617469632f6d656469612f4d656e6174776f726b2e36623164333166343664636163313039656130382e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush969696&label=Profile%20views&color=0e75b6&style=flat" alt="ayush969696" /> </p>
 
-- 🔭 I’m currently working on [Forma Scholar](https://github.com/formascholar0007/FormaScholar)
+🔭 I build scalable cross-platform mobile applications with React Native focused on performance, clean architecture, and seamless user experiences.
 
-- 🌱 I’m currently learning **ExpressJs and MongoDB**
+🌱 Currently exploring advanced React Native architecture, scalable application development, and mobile performance optimization.
 
-- 💬 Ask me about **JavaScript ReactJS, ExpressJS, MongoDB **
+💬 Ask me about React Native, JavaScript, Mobile App Development, Firebase, APIs, and Frontend Architecture
 
-- 📫 How to reach me **ayush972982@gmail.com**
+📫 Reach me at ayush972982@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
