@@ -3,7 +3,6 @@
 <h3 align="center">A passionate React Native Developer | Mobile App Developera from India</h3>
 <img align="right" alt="Coding" width="500"  src="https://avatars.githubusercontent.com/u/115862891?v=4&size=64" />
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/115862891?v=4&size=64" /> </p>
 
 🔭 I build scalable cross-platform mobile applications with React Native focused on performance, clean architecture, and seamless user experiences.
 
